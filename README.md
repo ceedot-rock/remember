@@ -1,3 +1,7 @@
+> **This repo has moved into the verse.** Development continues at
+> [ceedot-rock/MemoryVerse](https://github.com/ceedot-rock/MemoryVerse), in folder remember/.
+> This copy is archived and read-only - history preserved, nothing lost.
+
 # Remember — the memory companion
 
 ## The human story
